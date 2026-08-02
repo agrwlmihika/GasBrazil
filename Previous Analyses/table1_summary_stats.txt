@@ -1,0 +1,11 @@
+# A tibble: 8 × 6
+  variable               mean  median      sd    min      max
+  <chr>                 <dbl>   <dbl>   <dbl>  <dbl>    <dbl>
+1 p_sell.imp           3.16    3.03    0.391   2.49    4.40  
+2 log.nstations_group  1.89    1.39    1.87    0       4.50  
+3 pumps.imp            7.13    6       3.79    1      32     
+4 tank.imp            42.8    40      34.1    15     525     
+5 log.rent             6.88    6.75    0.568   6.21    8.44  
+6 pop.area            -0.0202 -1.27    3.31   -6.05    5.65  
+7 sjt                  0.0027  0.0023  0.0017  0       0.0213
+8 s0t                  0.170   0.164   0.0628  0.043   0.339 
